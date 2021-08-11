@@ -1,4 +1,4 @@
-# PROGRAM-STRUCTURE
+# 3. PROGRAM-STRUCTURE
 #include <stdio.h>
 struct StudentData{
  char *stu_name;
